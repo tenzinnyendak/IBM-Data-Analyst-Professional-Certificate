@@ -1,9 +1,13 @@
 About this Course
 
-- The fundamentals of spreadsheet applications
+- Understand how spreadsheets can be used as a data analysis tool
 
-- How to perform basic spreadsheet tasks
+- Understand when to use spreadsheets as a data analysis tool and their limitations
 
-- About the importance of data quality
+- Create a spreadsheet and explain its basic functionality
 
-- How to import file data into Excel
+- Perform data wrangling and data cleaning tasks using Excel
+
+- Analyze data using filter, sort, and pivot table features within Excel spreadsheets
+
+- Perform some intermediate level data wrangling and data analysis tasks to address a bsuiness scenario
