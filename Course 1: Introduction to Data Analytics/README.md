@@ -1,8 +1,10 @@
 About this Course
 
-- Explain what Data Analytics is and the key steps in the Data Analytics process
+- Introduce core concepts, processes, and tools you need to gain entry into data analytics
 
-- Differentiate between different data roles such as Data Engineer, Data Analyst, Data Scientist, Business Analyst, and Business Intelligence Analyst
+- Equip you with an understanding of
+  - Data ecosystem
+  - Fundamentals of data analysis, such as data gathering, wrangling, mining, analysis and data visualization
 
 - Describe the different types of data structures, file formats, and sources of data
 
