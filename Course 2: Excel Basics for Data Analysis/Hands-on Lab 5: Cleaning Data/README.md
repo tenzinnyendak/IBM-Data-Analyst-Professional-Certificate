@@ -1,11 +1,11 @@
-Objectives
+**Objectives**
 - Understand how to deal with irrelevant or inaccurate data
 - Remove empty rows and duplicated data
 - Change text case and date formatting
 - Trim whitespaces from data
 - Use Flash Fill and functions to clean data
 
-Tasks
+**Tasks**
 - Exercise 1: Removing Duplicated, Irrelevant or Inaccurate Data
   - Task A: Check spelling
   - Task B: Remove empty rows
