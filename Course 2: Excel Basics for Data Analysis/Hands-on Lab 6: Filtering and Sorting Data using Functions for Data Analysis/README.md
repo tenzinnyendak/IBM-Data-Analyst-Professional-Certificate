@@ -20,4 +20,3 @@
 - Exercise 3: Using the VLOOKUP and HLOOKUP Functions
   - Task A: Use of VLOOKUP to look up data in a table organized vertically
   - Task B: Use of HLOOKUP to look up data in a table organized horizontally
-  - 
