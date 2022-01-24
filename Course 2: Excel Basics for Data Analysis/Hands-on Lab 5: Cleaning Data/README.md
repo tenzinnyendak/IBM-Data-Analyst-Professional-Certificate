@@ -20,3 +20,4 @@
 - Exercise 3: More Excel Features for Cleaning Data
   - Task A: Use the Flash Fill feature to clean data:
   - Task B: Use LEFT, RIGHT, LEN, and SEARCH functions to clean data
+  - Task C: Use Text to Columns function to clean data
