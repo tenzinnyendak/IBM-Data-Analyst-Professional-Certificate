@@ -13,6 +13,7 @@ Create visualizations for the following captured KPI metrics:
 - Save your workbook: Use 'Save As' to save your completed workbook as CarSalesByModelEnd.xlsx
 
 **Peer-Graded Assignment: Final Assignment – Part 2**
+
 Assignment Scenario
 As a regional manager for a chain of car dealerships you need to build out a dashboard to allow you to understand your sales and service departments.
 
