@@ -3,7 +3,8 @@ Assignment Scenario
 
 As a regional manager for a chain of car dealerships you need to create some visualizations to allow you to understand your car sales and profits for each dealer.
 
-Tasks to perform:
+**Tasks to perform:**
+
 Create visualizations for the following captured KPI metrics:
 - 'Quantity Sold' by 'Dealer ID' - as a bar chart, sorted in either ascending or descending order of quantity sold, and change the chart title to "Quantity Sold by Dealer ID" 
 - 'Profit' by 'Date' and 'Model' - as a line chart, and give the chart a title of "Profit by Date and Model" 
