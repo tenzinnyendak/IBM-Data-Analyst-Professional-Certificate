@@ -11,7 +11,7 @@ Create visualizations for the following captured KPI metrics:
 - 'Profit' by 'Year' and 'Dealer ID' - as a column chart, titled "Profit by Year and Dealer ID" with the data columns in red
 - 'Sum of Profits' for 'Hudson model cars' by 'Dealer ID' - as a line chart, titled "Profit of Hudson Models by Dealer ID". Also remove the horizontal gridlines from the chart, put the legend on the right side of the chart, and color the series outline in green.
 - Save your workbook: Use 'Save As' to save your completed workbook as CarSalesByModelEnd.xlsx
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Peer-Graded Assignment: Final Assignment – Part 2**
 
 Assignment Scenario
